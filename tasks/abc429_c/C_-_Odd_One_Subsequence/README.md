@@ -1,3 +1,6 @@
+## URL
+https://atcoder.jp/contests/abc429/editorial/14283
+
 ## 問題
 
 長さ N の整数列 A = (A1, A2, …, AN) が与えられる。
